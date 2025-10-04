@@ -1,0 +1,13 @@
+<plugins>
+  <plugin id="com.github.azikar24.bbynscreengeneratorplugin" 
+          version="0.0.4" 
+	  url="https://bitbucket.org/azikar96/pluginrepositorytest/raw/420e92e67c68714fa4fe13626bdece0ffc761429/BbynScreenGeneratorPlugin-0.0.4.zip"
+          since-build="232"
+          until-build="*" >
+    <name>BbynScreenGenerator</name>
+    <description>
+      A private IntelliJ plugin for generating screens (internal use).
+    </description>
+    <vendor>Azikar24</vendor>
+  </plugin>
+</plugins>
