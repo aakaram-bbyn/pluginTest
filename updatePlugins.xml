@@ -6,7 +6,7 @@
           until-build="*" >
     <name>BbynScreenGenerator</name>
     <description>
-      A private IntelliJ plugin for generating screens (internal use).
+      A private IntelliJ plugin for generating screens (internal use - test).
     </description>
     <vendor>Azikar24</vendor>
   </plugin>
